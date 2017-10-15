@@ -1,0 +1,95 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\ms project kinect\New folder\Game\kinect game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\ms project kinect\New folder\Game\kinect game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.165 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.169193 ms
+Total levels: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Trees: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Bushes: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Stones: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded package 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Trees: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Bushes: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Stones: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded package 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Trees: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Bushes: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total Stones: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded package 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total packages: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2eb4 -> priority: 1 
+  Thread -> id: 3f38 -> priority: 1 
+  Thread -> id: c08 -> priority: 1 
+  Thread -> id: 421c -> priority: 1 
+Start Button pressed at Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

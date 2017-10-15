@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 26c0970ac28bd764ab8dfc535c016f4e
+timeCreated: 1501260225
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Queen of Camelot 2.0
+  fontNames:
+  - Queen of Camelot 2.0
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
